@@ -1,4 +1,4 @@
-# StudentManagementSystem-GUI-Application
+# UniversityManagementSystem-GUI-Application
 
 ## University Management System 
 This Java Project deals with the maintenance of student, faculty and other information 
